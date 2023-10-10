@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek</h1>
-<h3 align="center">I'm a passionate in AI/ML and Data Science from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ujjwal</h1>
+<h3 align="center">I'm a passionate in AI/ML Developer and Data Analyst from India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -14,9 +14,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **princeabhishek634@gmail.com**
+- 📫 How to reach me **ujjwaltajne17@gmail.com**
 
-- ⚡ Fun fact **I  go to the GYM very often.**
+- ⚡ Fun fact **I am an Engineer**
 
 ## 🚀 Languages and Tools:
 
