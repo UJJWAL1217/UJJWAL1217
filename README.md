@@ -36,3 +36,42 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal1217&show_icons=true&locale=en" alt="ujjwal1217" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal1217&" alt="ujjwal1217" /></p>-->
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIROMAN&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/UJJWAL1217/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ABHIROMAN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/UJJWAL1217/github-readme-stats"><img alt="Ujjwal Tajne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UJJWAL1217&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/UJJWAL1217/github-readme-activity-graph"><img alt="Ujjwal Tajne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=UJJWAL1217&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<!--## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/abhishek-kumar-0b08291bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/abhishekiitm2021/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>-->
+
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=UJJWAL1217">
+</a>
+<a href="https://github.com/UJJWAL1217?tab=followers"><img src="https://img.shields.io/github/followers/UJJWAL1217?label=Followers&style=social" alt="GitHub Badge"></a>
+
+[![@abhiroman's Holopin board](https://holopin.me/abhiroman)](https://holopin.io/@abhiroman)
