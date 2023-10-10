@@ -74,4 +74,4 @@
 </a>
 <a href="https://github.com/UJJWAL1217?tab=followers"><img src="https://img.shields.io/github/followers/UJJWAL1217?label=Followers&style=social" alt="GitHub Badge"></a>
 
-[![@abhiroman's Holopin board](https://holopin.me/abhiroman)](https://holopin.io/@abhiroman)
+
